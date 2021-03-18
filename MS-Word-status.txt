@@ -1,0 +1,6 @@
+hemli@LAPTOP-89K9RU9K MINGW64 /f/Sem 2/APT/git project (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+The command .gitignore was verified successfully.
